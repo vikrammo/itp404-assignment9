@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "google": "^2.1.0",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.6",
+    "tumblr": "^0.4.1",
+    "twitchbots-node": "^1.0.1",
+    "twitter": "^1.4.0",
+    "yelp": "^1.0.1"
+  }
+}
